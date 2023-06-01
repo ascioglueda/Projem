@@ -1,0 +1,10 @@
+C:\Users\DeLL\OneDrive\Masaüstü\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.AssemblyReference.cache
+C:\Users\DeLL\OneDrive\Masaüstü\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.Form1.resources
+C:\Users\DeLL\OneDrive\Masaüstü\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.GenerateResource.cache
+C:\Users\DeLL\OneDrive\Masaüstü\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeLL\OneDrive\Masaüstü\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.AssemblyInfoInputs.cache
+C:\Users\DeLL\OneDrive\Masaüstü\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.AssemblyInfo.cs
+C:\Users\DeLL\OneDrive\Masaüstü\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\DeLL\OneDrive\Masaüstü\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\SinifNotOrtalamalari.Form1.resources
+C:\Users\DeLL\OneDrive\Masaüstü\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\SinifOrtalamalari.Form1.resources
+C:\Users\DeLL\OneDrive\Masaüstü\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WindowsFormsApp1.Form1.resources
